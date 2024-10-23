@@ -16,7 +16,7 @@ $stmt->fetch();
 $stmt->close();
 ?>
 
-<!-- profile.php -->
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
